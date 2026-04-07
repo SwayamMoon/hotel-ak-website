@@ -67,7 +67,7 @@ export function Location() {
 
             <Button asChild size="lg" className="w-full">
               <Link
-                href="https://www.google.com/maps/dir//Besa+-+Manish+Nagar+Rd,+Somalwada,+Nagpur,+Maharashtra+440037"
+                href="https://maps.app.goo.gl/UfKN5yPVqHKjUkhS9"
                 target="_blank"
                 className="flex items-center justify-center gap-2"
               >
